@@ -1,0 +1,24 @@
+(*NOT meant for autofarming and have toggable feature*)
+     
+     
+     
+     
+     
+     
+
+(*MEANT for auto farming but have NO toggable feature [Anti lag, notifications are turned on and oyu have no way to change them cuz of obfuscation]*)
+Script: 
+
+--UPDATE-- SAT 27 Nov 2021
+  -Added 5min cooldown
+  -Press F9 for what the script is doing at that moment
+  -Grabs all diamonds that spawn around the map
+  -Does not move you or teleport you
+  -Serverhops when done
+  -Minor bug and error fixes
+  
+--UPDATE-- SUN 28 Nov 2021
+  -Increased cooldown from 5 > 10min for the sake of consistency 
+  -Removed the devconsole f9 business to roblox notifications
+  -Added anti-lag AKA Lag Prevention
+  
