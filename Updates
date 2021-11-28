@@ -1,11 +1,11 @@
 (*NOT meant for autofarming and have toggable feature*)
 
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20GUI%20%7BEncypted%7D.lua", true))()
 
 
 --UPDATE-- SUN 28 Nov 2021
   -Added Anti-AFK
-  -COMING SOON fly speed
+  -COMING SOON fly speed (or idk)
   -Change walkspeed and jumppower
   -Bug fixes
 
