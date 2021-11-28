@@ -1,13 +1,23 @@
 (*NOT meant for autofarming and have toggable feature*)
-     
-     
-     
-     
-     
-     
 
-(*MEANT for auto farming but have NO toggable feature [Anti lag, notifications are turned on and oyu have no way to change them cuz of obfuscation]*)
-Script: 
+
+
+
+--UPDATE-- SUN 28 Nov 2021
+     -Added Anti-AFK
+     -COMING SOON fly speed
+     -Change walkspeed and jumppower
+     -Bug fixes
+
+
+
+
+##############################################################################################################################
+
+(*MEANT for auto farming but have NO toggable feature [Anti lag, notifications are turned on and you have no way to change them]*) also put this in your AutoExec
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20%7BENCRYPTED%7D.lua", true))()
+
 
 --UPDATE-- SAT 27 Nov 2021
   -Added 5min cooldown
@@ -18,7 +28,6 @@ Script:
   -Minor bug and error fixes
   
 --UPDATE-- SUN 28 Nov 2021
-  -Increased cooldown from 5 > 10min for the sake of consistency 
+  -Increased cooldown from 5 --> 10 min for the sake of consistency 
   -Removed the devconsole f9 business to roblox notifications
   -Added anti-lag AKA Lag Prevention
-  
