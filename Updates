@@ -9,7 +9,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
   -Change walkspeed and jumppower
   -Bug fixes
 
-
+--UPDATE-- MON 29 Nov 2021 6:49pm CET
+  -Removed fly since it didnt work
+  -Nothin' else
 
 
 ##############################################################################################################################
@@ -32,6 +34,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
   -Removed the devconsole f9 business to roblox notifications
   -Added anti-lag AKA Lag Prevention
   
---UPDATE-- SUN 29 Nov 2021 5:39pm CET
+--UPDATE-- MON 29 Nov 2021 5:39pm CET
   -Fixed a minor combatability issues with different AutoExec on other executors
   -Thats all lol
