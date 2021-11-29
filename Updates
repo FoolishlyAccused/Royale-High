@@ -3,7 +3,7 @@ GUI SCRIPT:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20GUI%20%7BEncypted%7D.lua", true))()
 
 
---UPDATE-- SUN 28 Nov 2021
+--UPDATE-- SUN 28 Nov 2021 12:10pm (or somewhere around there) CET
   -Added Anti-AFK
   -Fly
   -Change walkspeed and jumppower
