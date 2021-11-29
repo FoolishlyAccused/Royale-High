@@ -19,7 +19,7 @@ FARMING SCRIPT: (Make sure to put in AutoExec)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20%7BENCRYPTED%7D.lua", true))()
 
 
---UPDATE-- SAT 27 Nov 2021
+--UPDATE-- SAT 27 Nov 2021 5:24pm CET
   -Added 5min cooldown
   -Press F9 for what the script is doing at that moment
   -Grabs all diamonds that spawn around the map
@@ -27,7 +27,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
   -Serverhops when done
   -Minor bug and error fixes
   
---UPDATE-- SUN 28 Nov 2021
+--UPDATE-- SUN 28 Nov 2021 12:31pm CET
   -Increased cooldown from 5 --> 10 min for the sake of consistency 
   -Removed the devconsole f9 business to roblox notifications
   -Added anti-lag AKA Lag Prevention
+  
+--UPDATE-- SUN 29 Nov 2021 5:39pm CET
+  -Fixed a minor combatability issues with different AutoExec on other executors
+  -Thats all lol
