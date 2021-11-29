@@ -1,4 +1,4 @@
-(*NOT meant for autofarming and have toggable feature*)
+(#####*NOT meant for autofarming and have toggable feature*#####)
 GUI SCRIPT:
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20GUI%20%7BEncypted%7D.lua", true))()
@@ -17,7 +17,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
 
 ##############################################################################################################################
 
-(*MEANT for auto farming but have NO toggable feature [Anti lag, notifications are turned on and you have no way to change them]*) also put this in your AutoExec
+(#####*MEANT for auto farming but have NO toggable feature [Anti lag, notifications are turned on and you have no way to change them]*#####) 
 FARMING SCRIPT: (Make sure to put in AutoExec)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20%7BENCRYPTED%7D.lua", true))()
@@ -33,7 +33,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
   
 --UPDATE-- SUN 28 Nov 2021 12:31pm CET
   -Increased cooldown from 5 --> 10 min for the sake of consistency 
-  -Removed the devconsole f9 business to roblox notifications
+  -Removed the devconsole f9 business to Roblox notifications
   -Added anti-lag AKA Lag Prevention
   
 --UPDATE-- MON 29 Nov 2021 5:39pm CET
