@@ -1,5 +1,6 @@
 (*NOT meant for autofarming and have toggable feature*)
 GUI SCRIPT:
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20GUI%20%7BEncypted%7D.lua", true))()
 
 
@@ -11,13 +12,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
 
 --UPDATE-- MON 29 Nov 2021 6:49pm CET
   -Removed fly since it didnt work
-  -Nothin' else
+  -Added github link in creditd for more identification / less theft
 
 
 ##############################################################################################################################
 
 (*MEANT for auto farming but have NO toggable feature [Anti lag, notifications are turned on and you have no way to change them]*) also put this in your AutoExec
 FARMING SCRIPT: (Make sure to put in AutoExec)
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20%7BENCRYPTED%7D.lua", true))()
 
 
@@ -36,4 +38,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
   
 --UPDATE-- MON 29 Nov 2021 5:39pm CET
   -Fixed a minor combatability issues with different AutoExec on other executors
-  -Thats all lol
+  -Added github notification for more identification / less theft
