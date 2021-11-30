@@ -30,7 +30,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
 (#####*MEANT for auto farming but have NO toggable feature [Anti lag, notifications are turned on and you have no way to change them]*#####) 
 FARMING SCRIPT: (Make sure to put in AutoExec)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20%7BENCRYPTED%7D.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20%7BEncrypted%7D.lua", true))()
 
 
 --UPDATE-- SAT 27 Nov 2021 5:24pm CET
