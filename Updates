@@ -3,9 +3,15 @@ Made Capybara#8681 (ME!) & какдела#1790                      -
 Roblox User: https://www.roblox.com/users/1433520064/profile -
 --------------------------------------------------------------
 
-(#####*NOT meant for autofarming and have toggable feature*#####)
-GUI SCRIPT:
 
+
+░██████╗░██╗░░░██╗██╗  ░██████╗░█████╗░██████╗░██╗██████╗░████████╗
+██╔════╝░██║░░░██║██║  ██╔════╝██╔══██╗██╔══██╗██║██╔══██╗╚══██╔══╝
+██║░░██╗░██║░░░██║██║  ╚█████╗░██║░░╚═╝██████╔╝██║██████╔╝░░░██║░░░
+██║░░╚██╗██║░░░██║██║  ░╚═══██╗██║░░██╗██╔══██╗██║██╔═══╝░░░░██║░░░
+╚██████╔╝╚██████╔╝██║  ██████╔╝╚█████╔╝██║░░██║██║██║░░░░░░░░██║░░░
+░╚═════╝░░╚═════╝░╚═╝  ╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+(#####*NOT meant for autofarming and have toggable feature*#####)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Royale-High/main/Royale%20High%20Gem%20Grabber%20GUI%20%7BEncypted%7D.lua", true))()
 
 
