@@ -35,11 +35,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
 --UPDATE-- MON 29 Nov 2021 6:49pm CET
   -Removed fly since it didnt work
   -Added github link in creditd for more identification
-  
- --UPDATE-- TUE 30 Nov 2021 3:35pm CET
-   -Made some optimizations
-   -Improved Anti-AFK
-   -Added notifications for identifications when you run the GUI
+
+--UPDATE-- TUE 30 Nov 2021 3:35pm CET
+  -Made some optimizations
+  -Improved Anti-AFK
+  -Added notifications for identifications when you run the GUI
 
 ########################################################################################################################################################################
 ########################################################################################################################################################################
@@ -86,6 +86,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
   -Added github notification for more identification
 
 --UPDATE-- TUE 30 Nov 2021 3:37pm CET
-   -Made ALOT of optimizations, autofarming is alot faster = more gems
-   -Reduced time from 10 to 8 min 
-   -Improved Anti-AFK
+  -Made ALOT of optimizations, autofarming is alot faster = more gems
+  -Reduced time from 10 to 8 min 
+  -Improved Anti-AFK
