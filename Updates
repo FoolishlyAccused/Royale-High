@@ -41,7 +41,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
 --UPDATE-- TUE 30 Nov 2021 3:35pm CET
   -Made some optimizations
   -Improved Anti-AFK
-  -Added notifications for identifications when you run the GUI
+  -Added notifications for identifications when you run the GUI\
+  
+--UPDATE-- THUR 2 Dec 2021 5:44pm CET
+  -Improved Anti-Afk
 
 ########################################################################################################################################################################
 ########################################################################################################################################################################
@@ -91,3 +94,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
   -Made ALOT of optimizations, autofarming is alot faster = more gems
   -Reduced time from 10 to 8 min 
   -Improved Anti-AFK
+  
+--UPDATE-- THUR 2 Dec 2021 5:44pm CET
+  - Decreased cooldown to 2:30 sec
