@@ -44,7 +44,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
   -Added notifications for identifications when you run the GUI\
   
 --UPDATE-- THUR 2 Dec 2021 5:44pm CET
-  -Improved Anti-Afk
+  -Improved Anti-Afk  
+  
+--UPDATE-- THUR 23 Dec 2021 6:32pm CET
+  -Removed Anti-Afk since it was cause mass errors in console
+  -Very minor changed to obfuscation 
 
 ########################################################################################################################################################################
 ########################################################################################################################################################################
@@ -97,3 +101,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FoolishlyAccused/Roya
   
 --UPDATE-- THUR 2 Dec 2021 5:44pm CET
   - Decreased cooldown to 2:30 sec
+
+--UPDATE-- THUR 23 Dec 2021 6:34pm CET
+  -The obfuscations we used were out-of-date and the owners of this obfuscation upgraded the entire way it works meaning some features werent working and so the whole autofarming was patched but
+  Elias07#2542 (the friend in-charge of the obfuscations) updated the whole tihng so it should work again
